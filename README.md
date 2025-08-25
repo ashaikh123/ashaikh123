@@ -1,6 +1,6 @@
 ### Hi I am Abdullah Shaikh 👋
 
-- 🔭 I’m currently working as online **_Survey programmer_**.
+- 🔭 I’m currently working as **_RnD Specialist - AI and Automation_**.
 - 🌱 I’m currently learning **Python+problem solving skills**
 - 👯 I’m looking to collaborate on anything related to coding.
 - 💬 Ask me about **Market research** _online surveys_
